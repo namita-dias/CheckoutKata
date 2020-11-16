@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermarketCheckout", "SupermarketCheckout\SupermarketCheckout.csproj", "{1213359A-9A55-430B-BD1F-78C2853B2FE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermarketCheckoutTests", "SupermarketCheckoutTests\SupermarketCheckoutTests.csproj", "{C33EE4D7-9935-4012-A59B-CA720ACEFEC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1213359A-9A55-430B-BD1F-78C2853B2FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1213359A-9A55-430B-BD1F-78C2853B2FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1213359A-9A55-430B-BD1F-78C2853B2FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1213359A-9A55-430B-BD1F-78C2853B2FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C33EE4D7-9935-4012-A59B-CA720ACEFEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33EE4D7-9935-4012-A59B-CA720ACEFEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33EE4D7-9935-4012-A59B-CA720ACEFEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C33EE4D7-9935-4012-A59B-CA720ACEFEC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D4D8367-3DFE-42B3-B924-733A7ED1787E}
+	EndGlobalSection
+EndGlobal
